@@ -1,0 +1,11 @@
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/paok/tests/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
